@@ -359,7 +359,7 @@ hr:after {
   border: 1px solid #000000;
 }
 
-button {
+#sign-up-button {
   width: 20%;
   height: 54px;
   background-color: #000000;
